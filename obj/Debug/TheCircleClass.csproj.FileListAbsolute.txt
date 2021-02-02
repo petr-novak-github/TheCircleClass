@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\xxExcercisesOnClases\11-TheCircleClass\stuff\TheCircleClass\bin\Debug\TheCircleClass.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\xxExcercisesOnClases\11-TheCircleClass\stuff\TheCircleClass\bin\Debug\TheCircleClass.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\xxExcercisesOnClases\11-TheCircleClass\stuff\TheCircleClass\bin\Debug\TheCircleClass.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\xxExcercisesOnClases\11-TheCircleClass\stuff\TheCircleClass\obj\Debug\TheCircleClass.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\xxExcercisesOnClases\11-TheCircleClass\stuff\TheCircleClass\obj\Debug\TheCircleClass.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\xxExcercisesOnClases\11-TheCircleClass\stuff\TheCircleClass\obj\Debug\TheCircleClass.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\xxExcercisesOnClases\11-TheCircleClass\stuff\TheCircleClass\obj\Debug\TheCircleClass.pdb
